@@ -37,9 +37,9 @@ except Exception as e:
 # IMPORTANT:
 # Update this list if your dataset/classes are different.
 class_names = [
-    "A", "B", "C", "D", "E", "F", "G", "H", "I",
+    "A", "B", "C", "D", "E", "F", "G", "H", "I","J",
     "K", "L", "M", "N", "O", "P", "Q", "R", "S",
-    "T", "U", "V", "W", "X", "Y",
+    "T", "U", "V", "W", "X", "Y","Z",
     "del", "nothing", "space"
 ]
 
