@@ -1,0 +1,3 @@
+tensorflow
+numpy
+keras_preprocessing # For tensorflow.keras.preprocessing.image
